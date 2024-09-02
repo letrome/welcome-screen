@@ -79,3 +79,4 @@ build_welcome_screen(){
 }
 
 build_welcome_screen "$color" "$services_line_1" "$services_line_2"
+build_ps1 "$color"
